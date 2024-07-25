@@ -2,6 +2,21 @@
             margin-bottom: 50px; 
         }
 
+        .university {
+            font-size: 1.5em; 
+            font-weight: bold; 
+            margin-bottom: 2px; 
+        }
+
+        .degree {
+            margin: 0; 
+            margin-bottom: 2px;
+        }
+
+.experience {
+            margin-bottom: 50px; 
+        }
+
         .company {
             font-size: 1.5em; 
             font-weight: bold; 
