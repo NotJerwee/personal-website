@@ -32,3 +32,30 @@
             margin: 0; 
             margin-bottom: 2px;
         }
+
+.skill-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.skills-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.skill-group {
+    margin-bottom: 20px;
+}
+
+.tech-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.tech-list p {
+    background-color: #f0f0f0;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
